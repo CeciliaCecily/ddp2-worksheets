@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class simpleLogin
+public class SimpleLogin
 {
     public static void main(String[] args)
     {
